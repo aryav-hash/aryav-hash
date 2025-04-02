@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello 👋, I'm Aryav</h1>
-<h3 align="center">A beginner at developing project</h3>
+<h3 align="center">A beginner at developing software project</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryav-hash&label=Profile%20views&color=0e75b6&style=flat" alt="aryav-hash" /> </p>
 
