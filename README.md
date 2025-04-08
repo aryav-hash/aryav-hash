@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Javascript, Flask**
 
-- 📫 How to reach me **aryav.yadav@gmail.com**
+- 📫 You can reach me at **aryav.yadav@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
