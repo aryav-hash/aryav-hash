@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryav-hash" alt="aryav-hash" /></a> </p>
 
-- 🔭 I’m currently working on [Mindful Notes (a wellbeing app)]
-
-- 🌱 I’m currently learning **Javascript, Flask**
+- 🔭 I’m currently working on a Well-being application
+  
+- 🌱 I’m currently learning **Javascript**
 
 - 📫 You can reach me at **aryav.yadav@gmail.com**
 
